@@ -55,8 +55,8 @@ RegisterNumber:24901168
 
 
 **RTL**
-![Screenshot 2024-11-24 152503](https://github.com/user-attachments/assets/784edf15-3765-43db-92a3-f933ad093261)
 
+![Screenshot 2024-11-24 153329](https://github.com/user-attachments/assets/7a7ee550-82ee-4585-837d-ba3c8c765f5b)
 
 
 **Timing Diagram**
