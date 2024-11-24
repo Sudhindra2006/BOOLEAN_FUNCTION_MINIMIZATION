@@ -51,13 +51,15 @@ RegisterNumber:24901168
 
 
 **RTL realization**
-![image](https://github.com/user-attachments/assets/1ab4c714-1d59-4029-ac38-f3761c14942c)
+![Screenshot 2024-11-24 151754](https://github.com/user-attachments/assets/fcbd1d1f-f0c1-4984-b3c2-af72421c8636)
+
 
 **Output:**
 
 
 **RTL**
-![image](https://github.com/user-attachments/assets/f3cf5633-9341-4de3-950b-ec8ae12d9059)
+![Screenshot 2024-11-24 152503](https://github.com/user-attachments/assets/784edf15-3765-43db-92a3-f933ad093261)
+
 
 
 **Timing Diagram**
