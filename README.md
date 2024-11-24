@@ -31,13 +31,10 @@ Hardware – PCs, Cyclone II , USB flasher
 5.	For different input combinations generate the timing diagram.
 
 
+
 **Program:**
-module experiment2(a,b,c,d,f1,w,x,y,z,f2);
-input a,b,c,d,w,x,y,z;
-output f1,f2;
-assign f1=((~b&~c)|(~a&b&d)|(a&b&~c));
-assign f2=((~y&z)|(x&y)|(w&y));
-endmodule
+
+![Screenshot 2024-11-24 153020](https://github.com/user-attachments/assets/6c3a5764-e08e-4c2f-be21-5a291adea15b)
 
 /*
 
