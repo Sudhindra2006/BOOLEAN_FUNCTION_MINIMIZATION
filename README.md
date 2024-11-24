@@ -48,8 +48,8 @@ RegisterNumber:24901168
 
 
 **RTL realization**
-![Screenshot 2024-11-24 151754](https://github.com/user-attachments/assets/fcbd1d1f-f0c1-4984-b3c2-af72421c8636)
 
+![Screenshot 2024-11-24 153456](https://github.com/user-attachments/assets/34e2b92e-743f-41f6-ae5f-9c5614261621)
 
 **Output:**
 
